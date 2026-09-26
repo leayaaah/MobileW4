@@ -1,6 +1,6 @@
 {
   "name": "bookstoreonline",
-  "main": "expo-router/entry",
+  "main": "expo/AppEntry",
   "version": "1.0.0",
   "dependencies": {
     "@expo/ui": "~57.0.20",
